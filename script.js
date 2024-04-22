@@ -32,7 +32,7 @@ return contrast;
 let calcRating = (Contrast_Value) => {
     if (Contrast_Value > 12) {
         result.style.backgroundColor = "#69eb67";
-        return "Super Good";
+        return "Super Duper Good";
     } else if (Contrast_Value > 7) {
         result.style.backgroundColor = "#b7ea84";
         return "Very Good";
